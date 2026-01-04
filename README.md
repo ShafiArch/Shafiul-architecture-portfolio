@@ -1,7 +1,9 @@
 # Shafiul Architecture Portfolio
 
 ## Live Website
-👉 https://shafiarch.github.io/shafiul-architecture-portfolio/
+👉 [https://shafiarch.github.io/shafiul-architecture-portfolio/](https://shafiarch.github.io/Shafiul-architecture-portfolio/)
+
+
 
 A curated portfolio of my architectural and computational design work, featuring academic, professional, and competition projects.
 
