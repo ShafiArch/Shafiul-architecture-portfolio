@@ -1,7 +1,7 @@
 # Shafiul Architecture Portfolio
 
 ## Live Website
-👉 [https://shafiarch.github.io/shafiul-architecture-portfolio/](https://shafiarch.github.io/Shafiul-architecture-portfolio/)
+ [https://shafiarch.github.io/shafiul-architecture-portfolio/](https://shafiarch.github.io/Shafiul-architecture-portfolio/)
 
 
 
